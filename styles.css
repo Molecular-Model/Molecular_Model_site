@@ -46,7 +46,7 @@ nav{
 label.logo{
     font-size: 30px;
     font-weight: bold;
-    color: green;
+    color: white;
     padding: 0 100px;
     line-height: 80px;
 }
@@ -117,7 +117,7 @@ nav #icon{
     }
     a.active, a:hover{
         border: none;
-        color: #f55951; 
+        color: green; 
     }
     nav ul.show{
         left: 0;
